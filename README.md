@@ -1,7 +1,7 @@
 <h1 align="center">Aongkon Das</h1>
 
 <p align="center">
-  <b>AI Specialist &amp; Quality Officer</b> at <a href="https://github.com/RiceField-Production">RiceField Production</a><br />
+  <b>AI Engineer &amp; Full-Stack Developer</b><br />
   I build practical AI systems, automation, and full-stack web &amp; mobile products.
 </p>
 
@@ -45,11 +45,4 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Aongkon29&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Aongkon29's GitHub stats" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/RiceField-Production">RiceField Production</a> ·
-  <a href="https://ricefield-production.vercel.app/">Official website</a>
 </p>

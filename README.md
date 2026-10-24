@@ -2,10 +2,6 @@
   <img src="https://cdn.jsdelivr.net/gh/Aongkon29/Aongkon29@main/assets/banner.svg" alt="Aongkon Das" width="100%" />
 </p>
 
-<p align="center">
-  <b>BSc in Computer Science and Technology</b> · <a href="https://www.gzu.edu.cn/">Guizhou University</a>
-</p>
-
 ---
 
 ### AI Stack

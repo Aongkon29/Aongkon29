@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Aongkon Das - AI Engineer and Full-Stack Developer" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Aongkon29/Aongkon29@main/assets/banner.svg" alt="Aongkon Das - AI Engineer and Full-Stack Developer" width="100%" />
 </p>
 
 <p align="center">
